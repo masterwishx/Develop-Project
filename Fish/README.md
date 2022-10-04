@@ -1,6 +1,10 @@
 Fish - fish is a smart and user-friendly command line
 shell for Linux, macOS, and the rest of the family.
 
+
+![image](https://user-images.githubusercontent.com/28630321/193850149-76a497c7-cb1a-4fb5-86f9-7d5e8aad77e5.png)
+
+
 fish-3.5.1-x86_64-1_da.txz   
 fish-3.4.1-x86_64-1_da.txz   
 
