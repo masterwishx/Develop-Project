@@ -3,7 +3,7 @@
 
 My Projects:
 
-fish-3.5.1-x86_64-1_da.txz   
+fish-3.6.0-x86_64-1_da.txz   
 
 Fish - fish is a smart and user-friendly command line
 shell for Linux, macOS, and the rest of the family.
