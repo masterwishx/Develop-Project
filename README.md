@@ -17,7 +17,7 @@ https://github.com/fish-shell/fish-shell
 
 ## iperf3
 
-- iperf3 - A TCP, UDP, and SCTP network bandwidth measurement tool.
+- `iperf3 - A TCP, UDP, and SCTP network bandwidth measurement tool.`
 
 - iperf3 v 3.18
 
